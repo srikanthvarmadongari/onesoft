@@ -8,7 +8,6 @@ class Testweb2ApplicationTests {
 
 	@Test
 	void contextLoads() {
-hi
 	}
 
 }
